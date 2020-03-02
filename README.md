@@ -1,12 +1,12 @@
 ## E-Cart App Using ReactJS
 
 
--> Awesome project for react learners
--> Very fast and smooth working
--> used class base context API
--> ecommerce cart full feature 
--> react routing
--> hand coding will help in easy understanding
+- Awesome project for react learners
+- Very fast and smooth working
+- used class base context API
+- ecommerce cart full feature 
+- react routing
+- hand coding will help in easy understanding
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
